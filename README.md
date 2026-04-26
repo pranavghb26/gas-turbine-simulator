@@ -57,13 +57,22 @@ This project demonstrates thermodynamic modeling, modular Python design, and per
 
 ## ▶️ Run
 
-```
+```bash
 pip install -r requirements.txt
 python main.py
-```
 
 ---
 
 ## Author
 
 Pranav Mohan
+
+
+---
+
+
+
+
+```md
+## 📌 Engineering Note
+This model uses a simplified Brayton cycle and assumes constant specific heats and no pressure losses. Results capture trends but are not representative of a real engine.
