@@ -48,7 +48,15 @@ The model was built with AI assistance and used to study real aerospace trade-of
 
 * Python
 * Matplotlib
+  
+## ✈️ Aerospace Application
 
+This model was used to study engine design trade-offs:
+
+- Lower pressure ratio → Higher thrust (fighter jets)
+- Higher pressure ratio → Higher efficiency (commercial aircraft)
+
+This reflects real-world propulsion design decisions in aerospace engineering.
 ---
 
 ## ▶️ Run
