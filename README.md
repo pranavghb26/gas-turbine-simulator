@@ -1,15 +1,11 @@
 # Gas Turbine Performance Simulator 🚀
 
 A Python-based simulation of a jet engine (Brayton cycle) with parametric analysis.
+## 🚀 Project Overview
 
----
+This project is a Python-based gas turbine (Brayton cycle) simulator developed to analyze how pressure ratio affects thrust and thermal efficiency.
 
-##  Overview
-
-This project models a simplified gas turbine engine using thermodynamic principles.
-It simulates compressor, combustor, turbine, and nozzle to evaluate performance.
-This project demonstrates thermodynamic modeling, modular Python design, and performance analysis of a jet engine cycle.
-
+The model was built with AI assistance and used to study real aerospace trade-offs between high-thrust and fuel-efficient engines.
 ---
 
 ## Components
