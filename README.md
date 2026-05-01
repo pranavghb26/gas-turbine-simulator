@@ -58,6 +58,9 @@ This model was used to study engine design trade-offs:
 
 This reflects real-world propulsion design decisions in aerospace engineering.
 ---
+## ⚠️ Note
+
+This is a simplified thermodynamic model intended for conceptual analysis, not precise engine design.
 
 ## ▶️ Run
 
